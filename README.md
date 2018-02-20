@@ -1,4 +1,4 @@
-Dans ce checkpoint tu vas devoir créer un début de répertoire.
+Dans ce checkpoint tu vas devoir créer un début de répertoire de contacts.
 
 **Etapes :**
 
@@ -20,7 +20,7 @@ le tableau HTML devra avoir les entêtes suivants :
 - NOM Prénom
 
 4 - La colonne NOM Prénom sera le résultat de l'appel d'une fonction nommée `fullname` et qui devra être créée dans le fichier *src/functions.php*. 
-Cette dernière prendra 2 paramètres en entrée (le nom et le prénom) et retournera les deux concaténés avec un espace
+Cette dernière prendra 2 paramètres en entrée (le prénom et le nom) et retournera les deux concaténés avec un espace
 pour les séparer (Pense au typage). Le nom devra être en majuscule et le prénom uniquement la 1ere lettre en majuscule (utilise des fonctions natives).
 
 5 - Ensuite, il te faudra créer un formulaire élégant permettant de créer un nouveau contact 
