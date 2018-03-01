@@ -23,7 +23,8 @@ le tableau HTML devra avoir les entêtes suivants :
 Cette dernière prendra 2 paramètres en entrée (le prénom et le nom) et retournera les deux concaténés avec un espace
 pour les séparer (Pense au typage). Le nom devra être en majuscule et le prénom uniquement la 1ere lettre en majuscule (utilise des fonctions natives).
 
-5 - Ensuite, il te faudra créer un formulaire élégant permettant de créer un nouveau contact 
+5 - Ensuite, il te faudra créer un formulaire élégant permettant de créer un nouveau contact. Le nom des champs de formulaire 
+devra correspondre aux noms des champs de base de données.
 (on ne s'occupe pas de la modification ni de la suppression) mais tous les champs sont **obligatoires** (tests serveur).
 
 6 - Ta page devra être stylisée un minimum grâce à `Bootstrap` (utilise le CDN pour gagner du temps).
