@@ -1,11 +1,11 @@
-Dans ce checkpoint tu vas devoir créer un début de répertoire de contacts.
+Dans ce checkpoint, tu vas devoir créer un début de répertoire de contacts.
 
 **Etapes :**
 
 1 - Pour cela, nous te fournissons un MCD *model.png*, à toi de créer physiquement la base de données correspondante (aucune restriction sur les outils).
 La seule contrainte est que la base doit se nommer *checkpoint1*.
 
-2 - Une fois cette base de données créé, tu devras importer dedans le contenu du fichier SQL *data/contact.sql* joint. 
+2 - Une fois cette base de données créée, tu devras importer dedans le contenu du fichier SQL *data/contact.sql* joint. 
 Il contient un minimum de données pour remplir ta base.
 
 3 - Maintenant que ta base est créée et remplie, tu dois créer une page *public/index.php* qui va :
@@ -21,7 +21,7 @@ le tableau HTML devra avoir les entêtes suivants :
 
 4 - La colonne NOM Prénom sera le résultat de l'appel d'une fonction nommée `fullname` et qui devra être créée dans le fichier *src/functions.php*. 
 Cette dernière prendra 2 paramètres en entrée (le prénom et le nom) et retournera les deux concaténés avec un espace
-pour les séparer (Pense au typage). Le nom devra être en majuscule et le prénom uniquement la 1ere lettre en majuscule (utilise des fonctions natives).
+pour les séparer (pense au typage). Le nom devra être en majuscule et le prénom uniquement la 1ere lettre en majuscule (utilise des fonctions natives).
 
 5 - Ensuite, il te faudra créer un formulaire élégant permettant de créer un nouveau contact. Le nom des champs de formulaire 
 devra correspondre aux noms des champs de base de données.
